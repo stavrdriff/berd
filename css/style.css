@@ -851,6 +851,7 @@ body::-webkit-scrollbar-thumb {
       -ms-flex-align: center;
           align-items: center;
   padding: 35px 0;
+  background: #e7f5f8;
 }
 
 .burger {
