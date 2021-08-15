@@ -577,11 +577,11 @@ body {
    }
 }
 .footer {
-   display: flex;
-   justify-content: center;
-   align-items: center;
    padding: 35px 0;
    background: #e7f5f8;
+   &__text {
+      text-align: center;
+   }
 }
 .burger {
    width: 48px;
