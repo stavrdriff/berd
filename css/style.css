@@ -938,6 +938,7 @@ body::-webkit-scrollbar-thumb {
   font-weight: 700;
   cursor: pointer;
   opacity: 0.93;
+  outline: none;
 }
 
 .up-active {
